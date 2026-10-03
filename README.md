@@ -1,7 +1,7 @@
-# zimmerpflanzen
+# Zimmerpflanzen 🌴
 Zimmerpflanzen Guide
 
-## Wie viel giessen?
+## Wie viel giessen? 🤔
 
 Dieser Guide ist valide für einmaliges giessen während einer Abwesenheit von 3 Wochen.
 
@@ -9,7 +9,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
-### Giess Spezifikation
+### Giess Spezifikation 🌊
 
 - [ ] Zamioculcas #1 (_Glücksfeder_)
 
@@ -141,7 +141,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
-#### Achtung: Dracaena marginata und Philodendron teilen sich 1 Gefäss. Bitte Giessanleitung nur **EINMALIG** beachten, nicht die doppelte Menge giessen!
+#### ⚠️ Achtung: Dracaena marginata und Philodendron teilen sich 1 Gefäss. Bitte Giessanleitung nur **EINMALIG** beachten, nicht die doppelte Menge giessen! 🚨
 
 - [ ] Dracaena marginata (_Gerandeter Drachenbaum_)
 
