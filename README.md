@@ -128,6 +128,19 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
+- [ ] Hedera helix #1 (_Efeu_)
+
+| Key | Value |
+|---|---|
+| Name | Hedera helix (_Efeu_) |
+| Ort | Hängend links über Schreibtisch |
+| Behälter | Weiss, mittel, kugelförmig |
+| Wassermenge | 1 Becher |
+
+![Hedera](./images/hedera_01.png)
+
+---
+
 - [ ] Dracaena fragrans (_Drachenbaum "Lemon Lime"_)
 
 | Key | Value |
@@ -177,6 +190,19 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Wassermenge | 1 halber Becher |
 
 ![Aglaonema](./images/aglaonema_01.png)
+
+---
+
+- [ ] Hedera helix #2 (_Efeu_)
+
+| Key | Value |
+|---|---|
+| Name | Hedera helix (_Efeu_) |
+| Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Wohnzimmerseitig |
+| Behälter | Schwarz, klein, quadratisch |
+| Wassermenge | 1 Becher |
+
+![Hedera](./images/hedera_02.png)
 
 ---
 
