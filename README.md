@@ -135,7 +135,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Hedera helix (_Efeu_) |
 | Ort | Hängend links über Schreibtisch |
 | Behälter | Weiss, mittel, kugelförmig |
-| Wassermenge | 1 Becher |
+| Wassermenge | 1 halber Becher |
 
 ![Hedera](./images/hedera_01.png)
 
@@ -151,6 +151,32 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Wassermenge | 2 Becher |
 
 ![Dracaena](./images/dracaena_02.png)
+
+---
+
+- [ ] Chlorophytum comosum #1 (_Grünlilie_)
+
+| Key | Value |
+|---|---|
+| Name | Chlorophytum comosum (_Grünlilie_) |
+| Ort | Auf Rollgestell, vor Balkontüre, rechts |
+| Behälter | Weiss, klein, quadratisch |
+| Wassermenge | 1 halber Becher |
+
+![Chlorophytum](./images/chlorophytum_01.png)
+
+---
+
+- [ ] Chlorophytum comosum #2 (_Grünlilie_)
+
+| Key | Value |
+|---|---|
+| Name | Chlorophytum comosum (_Grünlilie_) |
+| Ort | Auf Rollgestell, vor Balkontüre, links |
+| Behälter | Weiss, klein, quadratisch |
+| Wassermenge | 1 halber Becher |
+
+![Chlorophytum](./images/chlorophytum_02.png)
 
 ---
 
@@ -180,6 +206,19 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
+- [ ] Chlorophytum comosum #3 (_Grünlilie_)
+
+| Key | Value |
+|---|---|
+| Name | Chlorophytum comosum (_Grünlilie_) |
+| Ort | Auf Pflanzengestell links, ganz oben, Wohnzimmerseitig |
+| Behälter | Weiss, gross, quadratisch |
+| Wassermenge | 2-3 Becher |
+
+![Chlorophytum](./images/chlorophytum_03.png)
+
+---
+
 - [ ] Aglaonema #1 (_Aglaonema Kiwi_)
 
 | Key | Value |
@@ -193,6 +232,19 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
+- [ ] Chlorophytum comosum #4 (_Grünlilie_)
+
+| Key | Value |
+|---|---|
+| Name | Chlorophytum comosum (_Grünlilie_) |
+| Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Wohnzimmerseitig |
+| Behälter | Weiss, klein, quadratisch |
+| Wassermenge | 1 Becher |
+
+![Chlorophytum](./images/chlorophytum_04.png)
+
+---
+
 - [ ] Hedera helix #2 (_Efeu_)
 
 | Key | Value |
@@ -200,7 +252,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Hedera helix (_Efeu_) |
 | Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Wohnzimmerseitig |
 | Behälter | Schwarz, klein, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 1 halber Becher |
 
 ![Hedera](./images/hedera_02.png)
 
