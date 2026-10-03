@@ -148,7 +148,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Key | Value |
 |---|---|
 | Name | Dracaena marginata (_Gerandeter Drachenbaum_) |
-| Ort | Auf Pflanzengestell links, ganz oben, fensterseitig |
+| Ort | Auf Pflanzengestell links, ganz oben, Fensterseitig |
 | Behälter | Schwarz, gross, länglich |
 | Wassermenge | 3-4 Becher |
 
@@ -158,8 +158,8 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 | Key | Value |
 |---|---|
-| Name | Philodendron (__Baumfreund__) |
-| Ort | Auf Pflanzengestell links, ganz oben, fensterseitig |
+| Name | Philodendron (_Baumfreund_) |
+| Ort | Auf Pflanzengestell links, ganz oben, Fensterseitig |
 | Behälter | Schwarz, gross, länglich |
 | Wassermenge | 3-4 Becher |
 
@@ -172,7 +172,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Key | Value |
 |---|---|
 | Name | Aglaonema (_Aglaonema Kiwi_) |
-| Ort | Auf Pflanzengestell links, zweit-oberste Ebene, fensterseitig |
+| Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Fensterseitig |
 | Behälter | Schwarz, mittel, quadratisch |
 | Wassermenge | 1 halber Becher |
 
@@ -185,10 +185,21 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Key | Value |
 |---|---|
 | Name | Aglaonema (_Aglaonema Jungle Red_) |
-| Ort | Auf Pflanzengestell links, zweit-unterste Ebene, fensterseitig |
+| Ort | Auf Pflanzengestell links, zweit-unterste Ebene, Fensterseitig |
 | Behälter | Weiss, gross, quadratisch |
 | Wassermenge | 1 halber Becher |
 
 ![Aglaonema](./images/aglaonema_02.png)
 
 ---
+
+- [ ] Sansevieria (_Bogenhanf_)
+
+| Key | Value |
+|---|---|
+| Name | Sansevieria (_Bogenhanf_) |
+| Ort | Auf Pflanzengestell links, unterste Ebene, Wohnzimmerseitig |
+| Behälter | Weiss, mittel, länglich |
+| Wassermenge | 1 halbes Shotglass (wenig bis nichts) |
+
+![Sansevieria](./images/sansevieria_03.png)
