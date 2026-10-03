@@ -150,7 +150,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, sehr gross, hoch |
 | Wassermenge | 2 Becher |
 
-![Dracaena](./images/dracaena_02.jpg)
+![Dracaena](./images/dracaena_03.jpg)
 
 ---
 
