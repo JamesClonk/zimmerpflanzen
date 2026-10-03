@@ -20,7 +20,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Zamioculcas](./images/zamioculcas_01.png)
+![Zamioculcas](./images/zamioculcas_01.jpg)
 
 ---
 
@@ -33,7 +33,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, mittel, rund |
 | Wassermenge | 1 halbes Shotglass (extrem wenig bis nichts) |
 
-![Sansevieria](./images/sansevieria_01.png)
+![Sansevieria](./images/sansevieria_01.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 halbes Shotglass (extrem wenig bis nichts) |
 
-![Sansevieria](./images/sansevieria_02.png)
+![Sansevieria](./images/sansevieria_02.jpg)
 
 ---
 
@@ -59,7 +59,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Schwarz, sehr gross, hoch |
 | Wassermenge | 2 Becher |
 
-![Howea](./images/howea.png)
+![Howea](./images/howea.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Schwarz, klein, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Dracaena](./images/dracaena_01.png)
+![Dracaena](./images/dracaena_01.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, gross, kugelförmig |
 | Wassermenge | 3-4 Becher |
 
-![Epipremnum](./images/epipremnum_01.png)
+![Epipremnum](./images/epipremnum_01.jpg)
 
 ---
 
@@ -98,7 +98,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, mittel, rund |
 | Wassermenge | 1 Becher |
 
-![Zamioculcas](./images/zamioculcas_02.png)
+![Zamioculcas](./images/zamioculcas_02.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 Shotglass |
 
-![Dracaena](./images/dracaena_02.png)
+![Dracaena](./images/dracaena_02.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, gross, kugelförmig |
 | Wassermenge | 3-4 Becher |
 
-![Epipremnum](./images/epipremnum_02.png)
+![Epipremnum](./images/epipremnum_02.jpg)
 
 ---
 
@@ -137,7 +137,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, mittel, kugelförmig |
 | Wassermenge | 1 halber Becher |
 
-![Hedera](./images/hedera_01.png)
+![Hedera](./images/hedera_01.jpg)
 
 ---
 
@@ -150,7 +150,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, sehr gross, hoch |
 | Wassermenge | 2 Becher |
 
-![Dracaena](./images/dracaena_02.png)
+![Dracaena](./images/dracaena_02.jpg)
 
 ---
 
@@ -163,7 +163,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Chlorophytum](./images/chlorophytum_01.png)
+![Chlorophytum](./images/chlorophytum_01.jpg)
 
 ---
 
@@ -176,7 +176,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Chlorophytum](./images/chlorophytum_02.png)
+![Chlorophytum](./images/chlorophytum_02.jpg)
 
 ---
 
@@ -191,7 +191,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Schwarz, gross, länglich |
 | Wassermenge | 3-4 Becher |
 
-![Dracaena](./images/dracaena_04.png)
+![Dracaena](./images/dracaena_04.jpg)
 
 - [ ] Philodendron (_Baumfreund_)
 
@@ -202,7 +202,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Schwarz, gross, länglich |
 | Wassermenge | 3-4 Becher |
 
-![Philodendron](./images/philodendron.png)
+![Philodendron](./images/philodendron.jpg)
 
 ---
 
@@ -215,7 +215,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, gross, quadratisch |
 | Wassermenge | 2-3 Becher |
 
-![Chlorophytum](./images/chlorophytum_03.png)
+![Chlorophytum](./images/chlorophytum_03.jpg)
 
 ---
 
@@ -228,7 +228,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Schwarz, mittel, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Aglaonema](./images/aglaonema_01.png)
+![Aglaonema](./images/aglaonema_01.jpg)
 
 ---
 
@@ -241,7 +241,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 Becher |
 
-![Chlorophytum](./images/chlorophytum_04.png)
+![Chlorophytum](./images/chlorophytum_04.jpg)
 
 ---
 
@@ -254,7 +254,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Schwarz, klein, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Hedera](./images/hedera_02.png)
+![Hedera](./images/hedera_02.jpg)
 
 ---
 
@@ -267,7 +267,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, gross, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Aglaonema](./images/aglaonema_02.png)
+![Aglaonema](./images/aglaonema_02.jpg)
 
 ---
 
@@ -280,7 +280,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Schwarz, klein, quadratisch |
 | Wassermenge | 1 halber Becher |
 
-![Chlorophytum](./images/chlorophytum_05.png)
+![Chlorophytum](./images/chlorophytum_05.jpg)
 
 ---
 - [ ] Chlorophytum comosum #6 (_Grünlilie_)
@@ -292,7 +292,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 Becher |
 
-![Chlorophytum](./images/chlorophytum_06.png)
+![Chlorophytum](./images/chlorophytum_06.jpg)
 
 ---
 
@@ -305,4 +305,4 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Behälter | Weiss, mittel, länglich |
 | Wassermenge | 1 halbes Shotglass (wenig bis nichts) |
 
-![Sansevieria](./images/sansevieria_03.png)
+![Sansevieria](./images/sansevieria_03.jpg)
