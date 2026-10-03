@@ -3,9 +3,13 @@ Zimmerpflanzen Guide
 
 ## Wie viel giessen?
 
-Dieser Guide ist valide für einmaliges giessen während Abwesenheit von 3 Wochen.
+Dieser Guide ist valide für einmaliges giessen während einer Abwesenheit von 3 Wochen.
 
 Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
+
+---
+
+### Giess Spezifikation
 
 - [ ] Zamioculcas (_Glücksfeder_)
 
