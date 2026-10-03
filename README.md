@@ -141,6 +141,8 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
+#### Achtung: Dracaena marginata und Philodendron teilen sich 1 Gefäss. Bitte Giessanleitung nur **EINMALIG** beachten, nicht die doppelte Menge giessen!
+
 - [ ] Dracaena marginata (_Gerandeter Drachenbaum_)
 
 | Key | Value |
@@ -151,5 +153,42 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Wassermenge | 3-4 Becher |
 
 ![Dracaena](./images/dracaena_04.png)
+
+- [ ] Philodendron (_Baumfreund_)
+
+| Key | Value |
+|---|---|
+| Name | Philodendron (__Baumfreund__) |
+| Ort | Auf Pflanzengestell links, ganz oben, fensterseitig |
+| Behälter | Schwarz, gross, länglich |
+| Wassermenge | 3-4 Becher |
+
+![Philodendron](./images/philodendron.png)
+
+---
+
+- [ ] Aglaonema #1 (_Aglaonema Kiwi_)
+
+| Key | Value |
+|---|---|
+| Name | Aglaonema (_Aglaonema Kiwi_) |
+| Ort | Auf Pflanzengestell links, zweit-oberste Ebene, fensterseitig |
+| Behälter | Schwarz, mittel, quadratisch |
+| Wassermenge | 1 halber Becher |
+
+![Aglaonema](./images/aglaonema_01.png)
+
+---
+
+- [ ] Aglaonema #2 (_Aglaonema Jungle Red_)
+
+| Key | Value |
+|---|---|
+| Name | Aglaonema (_Aglaonema Jungle Red_) |
+| Ort | Auf Pflanzengestell links, zweit-unterste Ebene, fensterseitig |
+| Behälter | Weiss, gross, quadratisch |
+| Wassermenge | 1 halber Becher |
+
+![Aglaonema](./images/aglaonema_02.png)
 
 ---
