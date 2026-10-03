@@ -23,6 +23,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Zamioculcas](./images/zamioculcas_01.jpg)
 
 ---
+---
 
 - [ ] Sansevieria trifasciata (_Schwiegermutterzunge_)
 
@@ -35,6 +36,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Sansevieria](./images/sansevieria_01.jpg)
 
+---
 ---
 
 - [ ] Sansevieria #1 (_Bogenhanf_)
@@ -49,6 +51,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Sansevieria](./images/sansevieria_02.jpg)
 
 ---
+---
 
 - [ ] Howea forsteriana (_Kentia-Palme_)
 
@@ -61,6 +64,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Howea](./images/howea.jpg)
 
+---
 ---
 
 - [ ] Dracaena surculosa (_Bambus-Drachenbaum_)
@@ -75,6 +79,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Dracaena](./images/dracaena_01.jpg)
 
 ---
+---
 
 - [ ] Epipremnum aureum #1 (_Efeutute_)
 
@@ -87,6 +92,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Epipremnum](./images/epipremnum_01.jpg)
 
+---
 ---
 
 - [ ] Zamioculcas #2 (_Glücksfeder_)
@@ -101,6 +107,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Zamioculcas](./images/zamioculcas_02.jpg)
 
 ---
+---
 
 - [ ] Dracaena deremensis (_Drachenbaum_)
 
@@ -113,6 +120,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Dracaena](./images/dracaena_02.jpg)
 
+---
 ---
 
 - [ ] Epipremnum aureum #2 (_Efeutute_)
@@ -127,6 +135,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Epipremnum](./images/epipremnum_02.jpg)
 
 ---
+---
 
 - [ ] Hedera helix #1 (_Efeu_)
 
@@ -139,6 +148,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Hedera](./images/hedera_01.jpg)
 
+---
 ---
 
 - [ ] Dracaena fragrans (_Drachenbaum "Lemon Lime"_)
@@ -153,6 +163,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Dracaena](./images/dracaena_03.jpg)
 
 ---
+---
 
 - [ ] Chlorophytum comosum #1 (_Grünlilie_)
 
@@ -166,6 +177,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Chlorophytum](./images/chlorophytum_01.jpg)
 
 ---
+---
 
 - [ ] Chlorophytum comosum #2 (_Grünlilie_)
 
@@ -178,6 +190,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Chlorophytum](./images/chlorophytum_02.jpg)
 
+---
 ---
 
 #### ⚠️ Achtung: Dracaena marginata und Philodendron teilen sich 1 Gefäss. Bitte Giessanleitung nur **EINMALIG** beachten, nicht die doppelte Menge giessen! 🚨
@@ -207,6 +220,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Philodendron](./images/philodendron.jpg)
 
 ---
+---
 
 - [ ] Chlorophytum comosum #3 (_Grünlilie_)
 
@@ -219,6 +233,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Chlorophytum](./images/chlorophytum_03.jpg)
 
+---
 ---
 
 - [ ] Aglaonema #1 (_Aglaonema Kiwi_)
@@ -233,6 +248,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Aglaonema](./images/aglaonema_01.jpg)
 
 ---
+---
 
 - [ ] Chlorophytum comosum #4 (_Grünlilie_)
 
@@ -245,6 +261,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Chlorophytum](./images/chlorophytum_04.jpg)
 
+---
 ---
 
 - [ ] Hedera helix #2 (_Efeu_)
@@ -259,6 +276,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Hedera](./images/hedera_02.jpg)
 
 ---
+---
 
 - [ ] Aglaonema #2 (_Aglaonema Jungle Red_)
 
@@ -271,6 +289,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Aglaonema](./images/aglaonema_02.jpg)
 
+---
 ---
 
 - [ ] Chlorophytum comosum #5 (_Grünlilie_)
@@ -285,6 +304,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 ![Chlorophytum](./images/chlorophytum_05.jpg)
 
 ---
+---
 - [ ] Chlorophytum comosum #6 (_Grünlilie_)
 
 | Key | Value |
@@ -296,6 +316,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Chlorophytum](./images/chlorophytum_06.jpg)
 
+---
 ---
 
 - [ ] Sansevieria #2 (_Bogenhanf_)
