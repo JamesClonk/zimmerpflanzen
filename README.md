@@ -37,7 +37,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
-- [ ] Sansevieria (_Bogenhanf_)
+- [ ] Sansevieria #1 (_Bogenhanf_)
 
 | Key | Value |
 |---|---|
@@ -107,7 +107,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Key | Value |
 |---|---|
 | Name | Dracaena deremensis (_Drachenbaum_) |
-| Ort | Auf Staubsaugerroboter |
+| Ort | Auf Schreibtisch, links vom Monitor |
 | Behälter | Weiss, klein, quadratisch |
 | Wassermenge | 1 Shotglass |
 
@@ -193,7 +193,32 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ---
 
-- [ ] Sansevieria (_Bogenhanf_)
+- [ ] Chlorophytum comosum #5 (_Grünlilie_)
+
+| Key | Value |
+|---|---|
+| Name | Chlorophytum comosum (_Grünlilie_) |
+| Ort | Auf Pflanzengestell links, zweit-unterste Ebene, Wohnzimmerseitig |
+| Behälter | Schwarz, klein, quadratisch |
+| Wassermenge | 1 halber Becher |
+
+![Chlorophytum](./images/chlorophytum_05.png)
+
+---
+- [ ] Chlorophytum comosum #6 (_Grünlilie_)
+
+| Key | Value |
+|---|---|
+| Name | Chlorophytum comosum (_Grünlilie_) |
+| Ort | Auf Pflanzengestell links, unterste Ebene, Fensterseitig |
+| Behälter | Weiss, klein, quadratisch |
+| Wassermenge | 1 Becher |
+
+![Chlorophytum](./images/chlorophytum_06.png)
+
+---
+
+- [ ] Sansevieria #2 (_Bogenhanf_)
 
 | Key | Value |
 |---|---|
