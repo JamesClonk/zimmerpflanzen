@@ -193,6 +193,8 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
 ![Dracaena](./images/dracaena_04.jpg)
 
+#### ⚠️ Achtung: Dracaena marginata und Philodendron teilen sich 1 Gefäss. Bitte Giessanleitung nur **EINMALIG** beachten, nicht die doppelte Menge giessen! 🚨
+
 - [ ] Philodendron (_Baumfreund_)
 
 | Key | Value |
