@@ -314,7 +314,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, unterste Ebene, Fensterseitig |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 2 Becher |
 
 ![Chlorophytum](./images/chlorophytum_06.jpg)
 
@@ -328,6 +328,6 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Sansevieria (_Bogenhanf_) |
 | Ort | Auf Pflanzengestell links, unterste Ebene, Wohnzimmerseitig |
 | Behälter | Weiss, mittel, länglich |
-| Wassermenge | 1 halbes Shotglass (wenig bis nichts) |
+| Wassermenge | 1 Shotglass (wenig) |
 
 ![Sansevieria](./images/sansevieria_03.jpg)
