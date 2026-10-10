@@ -5,9 +5,9 @@ Zimmerpflanzen Guide
 
 Dieser Guide ist valide für einmaliges giessen während einer Abwesenheit von 3 Wochen.
 
-Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
+Giesszeitpunkt: ca. nach 1.5 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
-Gesamtdauer: ca. 30 Minuten.
+Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz! 🙀)
 
 ---
 
@@ -20,7 +20,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Zamioculcas (_Glücksfeder_) |
 | Ort | Auf schwarzem Wohnzimmer-Schrank, nahe Esstisch |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Zamioculcas](./images/zamioculcas_01.jpg)
 
@@ -34,7 +34,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Sansevieria trifasciata (_Schwiegermutterzunge_) |
 | Ort | Auf schwarzem Wohnzimmer-Schrank |
 | Behälter | Weiss, mittel, rund |
-| Wassermenge | 1 halbes Shotglass (extrem wenig bis nichts) |
+| Wassermenge | 0.25 (extrem wenig bis nichts) |
 
 ![Sansevieria](./images/sansevieria_01.jpg)
 
@@ -48,7 +48,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Sansevieria (_Bogenhanf_) |
 | Ort | Auf schwarzem Wohnzimmer-Schrank |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 1 halbes Shotglass (extrem wenig bis nichts) |
+| Wassermenge | 0.25 (extrem wenig bis nichts) |
 
 ![Sansevieria](./images/sansevieria_02.jpg)
 
@@ -62,7 +62,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Howea forsteriana (_Kentia-Palme_) |
 | Ort | Zwischen Staubsaugerroboter und schwarzem Wohnzimmer-Schrank |
 | Behälter | Schwarz, sehr gross, hoch |
-| Wassermenge | 2 1/2 Becher |
+| Wassermenge | 2.5 Becher |
 
 ![Howea](./images/howea.jpg)
 
@@ -76,7 +76,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Dracaena surculosa (_Bambus-Drachenbaum_) |
 | Ort | Auf Staubsaugerroboter |
 | Behälter | Schwarz, klein, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 1 Becher |
 
 ![Dracaena](./images/dracaena_01.jpg)
 
@@ -118,7 +118,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Dracaena deremensis (_Drachenbaum_) |
 | Ort | Auf Schreibtisch, links vom Monitor |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 1 Shotglass |
+| Wassermenge | 0.25 (wenig) |
 
 ![Dracaena](./images/dracaena_02.jpg)
 
@@ -160,7 +160,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Dracaena fragrans (_Drachenbaum "Lemon Lime"_) |
 | Ort | Rechts neben Balkontüre |
 | Behälter | Weiss, sehr gross, hoch |
-| Wassermenge | 2 1/2 Becher |
+| Wassermenge | 2.5 Becher |
 
 ![Dracaena](./images/dracaena_03.jpg)
 
@@ -174,7 +174,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Rollgestell, vor Balkontüre, rechts |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Chlorophytum](./images/chlorophytum_01.jpg)
 
@@ -188,7 +188,7 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Rollgestell, vor Balkontüre, links |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Chlorophytum](./images/chlorophytum_02.jpg)
 
@@ -328,6 +328,6 @@ Gesamtdauer: ca. 30 Minuten.
 | Name | Sansevieria (_Bogenhanf_) |
 | Ort | Auf Pflanzengestell links, unterste Ebene, Wohnzimmerseitig |
 | Behälter | Weiss, mittel, länglich |
-| Wassermenge | 1 Shotglass (wenig) |
+| Wassermenge | 0.5 Becher |
 
 ![Sansevieria](./images/sansevieria_03.jpg)
