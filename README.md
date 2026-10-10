@@ -7,6 +7,8 @@ Dieser Guide ist valide für einmaliges giessen während einer Abwesenheit von 3
 
 Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 
+Gesamtdauer: ca. 30 Minuten.
+
 ---
 
 ### Giess Spezifikation 🌊
@@ -229,7 +231,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, ganz oben, Wohnzimmerseitig |
 | Behälter | Weiss, gross, quadratisch |
-| Wassermenge | 2-3 Becher |
+| Wassermenge | 4 Becher |
 
 ![Chlorophytum](./images/chlorophytum_03.jpg)
 
@@ -243,7 +245,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Aglaonema (_Aglaonema Kiwi_) |
 | Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Fensterseitig |
 | Behälter | Schwarz, mittel, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 1 Becher |
 
 ![Aglaonema](./images/aglaonema_01.jpg)
 
@@ -257,7 +259,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Wohnzimmerseitig |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 2 Becher |
 
 ![Chlorophytum](./images/chlorophytum_04.jpg)
 
@@ -285,7 +287,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Aglaonema (_Aglaonema Jungle Red_) |
 | Ort | Auf Pflanzengestell links, zweit-unterste Ebene, Fensterseitig |
 | Behälter | Weiss, gross, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 1 Becher |
 
 ![Aglaonema](./images/aglaonema_02.jpg)
 
@@ -299,7 +301,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, zweit-unterste Ebene, Wohnzimmerseitig |
 | Behälter | Schwarz, klein, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 1 Becher |
 
 ![Chlorophytum](./images/chlorophytum_05.jpg)
 
