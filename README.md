@@ -144,7 +144,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Hedera helix (_Efeu_) |
 | Ort | Hängend links über Schreibtisch |
 | Behälter | Weiss, mittel, kugelförmig |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 1 Becher |
 
 ![Hedera](./images/hedera_01.jpg)
 
@@ -202,7 +202,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Dracaena marginata (_Gerandeter Drachenbaum_) |
 | Ort | Auf Pflanzengestell links, ganz oben, Fensterseitig |
 | Behälter | Schwarz, gross, länglich |
-| Wassermenge | 3-4 Becher |
+| Wassermenge | 5 Becher |
 
 ![Dracaena](./images/dracaena_04.jpg)
 
@@ -215,7 +215,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Philodendron (_Baumfreund_) |
 | Ort | Auf Pflanzengestell links, ganz oben, Fensterseitig |
 | Behälter | Schwarz, gross, länglich |
-| Wassermenge | 3-4 Becher |
+| Wassermenge | 5 Becher |
 
 ![Philodendron](./images/philodendron.jpg)
 
@@ -271,7 +271,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Hedera helix (_Efeu_) |
 | Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Wohnzimmerseitig |
 | Behälter | Schwarz, klein, quadratisch |
-| Wassermenge | 1 halber Becher |
+| Wassermenge | 1 Becher |
 
 ![Hedera](./images/hedera_02.jpg)
 
