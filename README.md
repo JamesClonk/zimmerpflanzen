@@ -60,7 +60,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Howea forsteriana (_Kentia-Palme_) |
 | Ort | Zwischen Staubsaugerroboter und schwarzem Wohnzimmer-Schrank |
 | Behälter | Schwarz, sehr gross, hoch |
-| Wassermenge | 2 Becher |
+| Wassermenge | 2 1/2 Becher |
 
 ![Howea](./images/howea.jpg)
 
@@ -88,7 +88,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Epipremnum aureum (_Efeutute_) |
 | Ort | Hängend rechts über Schreibtisch |
 | Behälter | Weiss, gross, kugelförmig |
-| Wassermenge | 3-4 Becher |
+| Wassermenge | 4 Becher |
 
 ![Epipremnum](./images/epipremnum_01.jpg)
 
@@ -130,7 +130,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Epipremnum aureum (_Efeutute_) |
 | Ort | Hängend links über Schreibtisch |
 | Behälter | Weiss, gross, kugelförmig |
-| Wassermenge | 3-4 Becher |
+| Wassermenge | 4 Becher |
 
 ![Epipremnum](./images/epipremnum_02.jpg)
 
@@ -158,7 +158,7 @@ Giesszeitpunkt: ca. nach 1 1/2 Wochen, sprich der Hälfte der Abwesenheitsdauer.
 | Name | Dracaena fragrans (_Drachenbaum "Lemon Lime"_) |
 | Ort | Rechts neben Balkontüre |
 | Behälter | Weiss, sehr gross, hoch |
-| Wassermenge | 2 Becher |
+| Wassermenge | 2 1/2 Becher |
 
 ![Dracaena](./images/dracaena_03.jpg)
 
