@@ -20,7 +20,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Zamioculcas (_Glücksfeder_) |
 | Ort | Auf schwarzem Wohnzimmer-Schrank, nahe Esstisch |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 0.5 Becher |
+| Wassermenge | 0.25 (wenig) Becher |
 
 ![Zamioculcas](./images/zamioculcas_01.jpg)
 
@@ -62,7 +62,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Howea forsteriana (_Kentia-Palme_) |
 | Ort | Zwischen Staubsaugerroboter und schwarzem Wohnzimmer-Schrank |
 | Behälter | Schwarz, sehr gross, hoch |
-| Wassermenge | 2.5 Becher |
+| Wassermenge | 2 Becher |
 
 ![Howea](./images/howea.jpg)
 
@@ -76,7 +76,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Dracaena surculosa (_Bambus-Drachenbaum_) |
 | Ort | Auf Staubsaugerroboter |
 | Behälter | Schwarz, klein, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Dracaena](./images/dracaena_01.jpg)
 
@@ -90,7 +90,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Epipremnum aureum (_Efeutute_) |
 | Ort | Hängend rechts über Schreibtisch |
 | Behälter | Weiss, gross, kugelförmig |
-| Wassermenge | 4 Becher |
+| Wassermenge | 2 Becher |
 
 ![Epipremnum](./images/epipremnum_01.jpg)
 
@@ -104,7 +104,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Zamioculcas (_Glücksfeder_) |
 | Ort | Auf Schreibtisch, links vom Monitor |
 | Behälter | Weiss, mittel, rund |
-| Wassermenge | 1 Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Zamioculcas](./images/zamioculcas_02.jpg)
 
@@ -118,7 +118,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Dracaena deremensis (_Drachenbaum_) |
 | Ort | Auf Schreibtisch, links vom Monitor |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 0.25 (wenig) |
+| Wassermenge | 0.25 (wenig) Becher |
 
 ![Dracaena](./images/dracaena_02.jpg)
 
@@ -132,7 +132,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Epipremnum aureum (_Efeutute_) |
 | Ort | Hängend links über Schreibtisch |
 | Behälter | Weiss, gross, kugelförmig |
-| Wassermenge | 4 Becher |
+| Wassermenge | 2 Becher |
 
 ![Epipremnum](./images/epipremnum_02.jpg)
 
@@ -146,7 +146,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Hedera helix (_Efeu_) |
 | Ort | Hängend links über Schreibtisch |
 | Behälter | Weiss, mittel, kugelförmig |
-| Wassermenge | 1 Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Hedera](./images/hedera_01.jpg)
 
@@ -160,7 +160,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Dracaena fragrans (_Drachenbaum "Lemon Lime"_) |
 | Ort | Rechts neben Balkontüre |
 | Behälter | Weiss, sehr gross, hoch |
-| Wassermenge | 2.5 Becher |
+| Wassermenge | 2 Becher |
 
 ![Dracaena](./images/dracaena_03.jpg)
 
@@ -204,7 +204,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Dracaena marginata (_Gerandeter Drachenbaum_) |
 | Ort | Auf Pflanzengestell links, ganz oben, Fensterseitig |
 | Behälter | Schwarz, gross, länglich |
-| Wassermenge | 5 Becher |
+| Wassermenge | 4 Becher |
 
 ![Dracaena](./images/dracaena_04.jpg)
 
@@ -217,7 +217,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Philodendron (_Baumfreund_) |
 | Ort | Auf Pflanzengestell links, ganz oben, Fensterseitig |
 | Behälter | Schwarz, gross, länglich |
-| Wassermenge | 5 Becher |
+| Wassermenge | 4 Becher |
 
 ![Philodendron](./images/philodendron.jpg)
 
@@ -231,7 +231,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, ganz oben, Wohnzimmerseitig |
 | Behälter | Weiss, gross, quadratisch |
-| Wassermenge | 4 Becher |
+| Wassermenge | 3 Becher |
 
 ![Chlorophytum](./images/chlorophytum_03.jpg)
 
@@ -245,7 +245,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Aglaonema (_Aglaonema Kiwi_) |
 | Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Fensterseitig |
 | Behälter | Schwarz, mittel, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Aglaonema](./images/aglaonema_01.jpg)
 
@@ -259,7 +259,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Wohnzimmerseitig |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 2 Becher |
+| Wassermenge | 1 Becher |
 
 ![Chlorophytum](./images/chlorophytum_04.jpg)
 
@@ -273,7 +273,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Hedera helix (_Efeu_) |
 | Ort | Auf Pflanzengestell links, zweit-oberste Ebene, Wohnzimmerseitig |
 | Behälter | Schwarz, klein, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Hedera](./images/hedera_02.jpg)
 
@@ -287,7 +287,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Aglaonema (_Aglaonema Jungle Red_) |
 | Ort | Auf Pflanzengestell links, zweit-unterste Ebene, Fensterseitig |
 | Behälter | Weiss, gross, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Aglaonema](./images/aglaonema_02.jpg)
 
@@ -301,7 +301,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, zweit-unterste Ebene, Wohnzimmerseitig |
 | Behälter | Schwarz, klein, quadratisch |
-| Wassermenge | 1 Becher |
+| Wassermenge | 0.5 Becher |
 
 ![Chlorophytum](./images/chlorophytum_05.jpg)
 
@@ -314,7 +314,7 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Chlorophytum comosum (_Grünlilie_) |
 | Ort | Auf Pflanzengestell links, unterste Ebene, Fensterseitig |
 | Behälter | Weiss, klein, quadratisch |
-| Wassermenge | 2 Becher |
+| Wassermenge | 1 Becher |
 
 ![Chlorophytum](./images/chlorophytum_06.jpg)
 
@@ -328,6 +328,6 @@ Gesamtdauer: Es muss mit _mindestens_ 30 Minuten gerechnet werden. (Kein Scherz!
 | Name | Sansevieria (_Bogenhanf_) |
 | Ort | Auf Pflanzengestell links, unterste Ebene, Wohnzimmerseitig |
 | Behälter | Weiss, mittel, länglich |
-| Wassermenge | 0.5 Becher |
+| Wassermenge | 0.25 (wenig) Becher |
 
 ![Sansevieria](./images/sansevieria_03.jpg)
